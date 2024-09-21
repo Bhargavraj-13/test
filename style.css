@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(35, 33, 33)
+}
+
+.leftbar{
+    background-color: black;
+    color: white;
+    width: 250PX;
+    height: 700PX;
+}
+.mg{
+    font-size: larger;
+    color: white    ;
+
+    
+}
+.midtopsong{
+    width: 50px;
+    padding-left: 260px;
+    height: 150px;
+    position: absolute;
+    top: 7.5em;
+}
